@@ -1,6 +1,0 @@
-F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Models\bin\Debug\Models.dll
-F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Models\bin\Debug\Models.pdb
-F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Models\obj\Debug\Models.csprojAssemblyReference.cache
-F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
-F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Models\obj\Debug\Models.dll
-F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Models\obj\Debug\Models.pdb
