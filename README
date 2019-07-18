@@ -1,0 +1,9 @@
+# Desafio desenvolvido em Asp.Net FrameWork 4.7.2
+
+Foi desenvolvido uma Api para atender o sesafio.
+
+1) Faça o download do projeto.
+2) Execute o script SQL-SERVER arquivo [DDL.sql]
+3) Ajustar a ConnectionString.
+4) Caso ocorra erro na primeira execução, limpar o projeto e executar novamente, isso pode ocorrer porque var recriar a packages.
+5) Não foi creado interfaces para usuário.
