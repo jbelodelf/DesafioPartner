@@ -1,0 +1,9 @@
+F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Dados\bin\Debug\Dados.dll
+F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Dados\bin\Debug\Dados.pdb
+F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Dados\bin\Debug\Models.dll
+F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Dados\bin\Debug\Models.pdb
+F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Dados\obj\Debug\Dados.csprojAssemblyReference.cache
+F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Dados\obj\Debug\Dados.csproj.CopyComplete
+F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Dados\obj\Debug\Dados.dll
+F:\Projetos_Gerais\GitHub\DesafioPartner\DesafioPartner\Dados\obj\Debug\Dados.pdb
